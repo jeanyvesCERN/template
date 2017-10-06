@@ -1,7 +1,7 @@
 Authors
 -------
 
-* Eric (New contributor)
-* Anthony 
+* Jean-Yves Le Meur 
+* Nicola Tarocco
 
 
